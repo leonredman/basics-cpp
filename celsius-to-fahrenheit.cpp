@@ -1,4 +1,4 @@
-// While loop example: Celsius to Fahrenheit.
+// While loop example: Celsius to Fahrenheit 
 
 #include <iostream>
 using namespace std;
