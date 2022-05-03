@@ -1,4 +1,4 @@
-// String with digit.
+// String with digit 
 // Set hasDigit to true if the 3-character passCode contains a digit.
 
 

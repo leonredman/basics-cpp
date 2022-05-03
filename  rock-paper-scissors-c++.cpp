@@ -1,4 +1,4 @@
-// rock paper scissors - c++
+// rock paper scissors - c++ example 
 
 #include <iostream>
 using namespace std;

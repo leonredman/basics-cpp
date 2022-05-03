@@ -1,4 +1,4 @@
-// Alphabetic replace.
+// Alphabetic replace *
 
 // Replace any alphabetic character with '_' in 2-character string passCode. Ex: If passCode is "9a", output is:
 // 9_

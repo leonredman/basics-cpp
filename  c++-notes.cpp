@@ -1,4 +1,4 @@
-// c++ notes
+// c++ notes file
 #include <iostream>                           // library in and out
 #include <string>                             // library to include strings data type
 #include <cctype>                             // library to funcitons for characters types   
