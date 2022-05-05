@@ -6,7 +6,8 @@ using namespace std;
 
 void main()
 {
-  // create and initialize parrallel arrays (corresponding info is related by index, access by one index)
+  // create and initialize parrallel arrays 
+  // (corresponding info is related by index, access by one index)
   int Sales[4] = { 3000, 2311, 5000, 1023 };
   string SalesAssociate[4] = { "Mark Winston", "Jason Tate", "Ana Jones", "Lisa Polkman" };
   string strAssociateInput, fname ,lname;
